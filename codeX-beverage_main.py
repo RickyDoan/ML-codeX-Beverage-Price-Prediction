@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from helper_db import preprocessing
 from joblib import load
 
 # model = load("artifact/best_model.joblib")
